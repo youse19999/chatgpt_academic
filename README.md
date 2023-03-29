@@ -1,12 +1,12 @@
-# ChatGPT 学术优化
+# ChatGPT 学術的最適化(chatgpt_academic)
 
-**如果喜欢这个项目，请给它一个Star；如果你发明了更好用的学术快捷键，欢迎发issue或者pull requests**
+**このプロジェクトが良いと思ったらスターを付けてください，issueもpullも歓迎しています。 requests**
 
 If you like this project, please give it a Star. If you've come up with more useful academic shortcuts, feel free to open an issue or pull request.
 
 ```
-代码中参考了很多其他优秀项目中的设计，主要包括：
-# 借鉴项目1：借鉴了mdtex2html中公式处理的方法
+コードは以下のものを利用しています：
+# 参考項目1：借鉴了mdtex2html中公式处理的方法
 https://github.com/polarwinkel/mdtex2html
 
 # 借鉴项目2：借鉴了ChuanhuChatGPT中读取OpenAI json的方法、记录历史问询记录的方法以及gradio queue的使用技巧
